@@ -32,7 +32,7 @@ allows you to effectively merge "heading from" and "heading to" into a
 single, clean signal icon.
 
 It's admittedly a bit niche, but it looks great on platform
-dashboards.
+dashboards, and I find it useful for logitistics and labelling.
 
 ---
 
